@@ -10,5 +10,6 @@ A simple Go CLI that returned issues from specified GitHub repo. Version 1.
 
 
 ### Example
+![image](https://github.com/allgeo/go-github-issues-v1/assets/62227321/6c9a3f89-ddfa-4221-9b54-cf3f960fc1ce)
 
 
