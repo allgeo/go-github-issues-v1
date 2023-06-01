@@ -1,6 +1,6 @@
 ![go-github-issues-v1](https://github.com/allgeo/go-github-issues-v1/assets/62227321/48a589b3-9453-47cf-9e96-f0308e5e0247)
 
-A simple Go CLI that returned issues from specified GitHub repo. 
+A simple Go CLI that returns issues from specified open source Github repos. 
 
 ### Usecase 
 1. Clone the repo `https://github.com/allgeo/go-github-issues-v1.git`
